@@ -1,4 +1,4 @@
-# 📄 Documentação de Requisitos e Modelagem (Momento 2 feito embaixo)
+#  Documentação de Requisitos e Modelagem (Momento 2 feito embaixo)
 
 ## 1. USER STORIES (INVEST)
 
